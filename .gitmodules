@@ -8,3 +8,8 @@
 	url = https://github.com/vst/mgarchbekk
 	shallow = true
 	registered = true
+[submodule "rkvo"]
+	path = rkvo
+	url = https://github.com/vst/rkvo
+	shallow = true
+	registered = true

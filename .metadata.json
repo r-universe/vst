@@ -2,5 +2,9 @@
   {
     "package": "mgarchBEKK",
     "oncran": true
+  },
+  {
+    "package": "rkvo",
+    "oncran": true
   }
 ]
